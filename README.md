@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kavya371
+- 👋 Hi, I’m Kavya
 - 👀 I’m interested in mern stack development
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on 
