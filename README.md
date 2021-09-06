@@ -2,7 +2,7 @@
 - 👀 I’m interested in mern stack development
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me 
+- 📫 How to reach me @mkavya708@gmail.com
 
 <!---
 kavya371/kavya371 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
