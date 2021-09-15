@@ -2,6 +2,8 @@
 - 👀 I’m interested in mern stack development
 - 🌱 I’m currently learning Node.js
 - 💞️ I’m looking to collaborate on any tech related stuff
+- 🌈 Pronoun: she/her
+- ✨ fun fact: The root is at the top of the tree.
 - 📫 How to reach me mkavya708@gmail.com
 
 <!---
