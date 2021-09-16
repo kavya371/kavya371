@@ -1,6 +1,6 @@
 - 👋 Hi there, This is Kavya
 - 👀 I’m interested in mern stack development
-- 🌱 I’m currently learning Node.js
+- 🌱 I’m currently learning Node.js and MongoDB
 - 💞️ I’m looking to collaborate on any tech related stuff
 - 🌈 Pronoun: she/her
 - ✨ fun fact: Javascript is googled more than Kim Kardashian in 2018.
